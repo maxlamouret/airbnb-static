@@ -1,0 +1,21 @@
+.footer {
+  background-color: #333333;
+  color: white;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.social-networks {
+  margin: 20px;
+}
+
+.social-networks i {
+  font-size: 20pt;
+  color: white;
+  padding: 10px;
+}
+
+.social-networks i:hover {
+  color: yellow;
+}
